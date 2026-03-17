@@ -19,6 +19,10 @@ Passionate about turning **AI research into practical, impact-driven technology.
 
 <b>LLM / RAG: LangChain • Pinecone • FAISS • Ollama • HuggingFace • Weaviate</b>
 
+<br>
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TemidireAdesiji&show_icons=true&theme=gruvbox)
+
 #
 
 ### Stats
