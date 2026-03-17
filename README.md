@@ -13,7 +13,7 @@ Passionate about turning **AI research into practical, impact-driven technology.
 #
 
 ### Skills & Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=python,pytorch,tensorflow,c,cpp,linux,docker,aws,git,github,bash,sqlite,postgres&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,typescript,javascript,pytorch,tensorflow,c,cpp,linux,docker,aws,git,github,bash,sqlite,postgres&theme=light)](https://skillicons.dev)
 
 <br>
 
