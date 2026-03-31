@@ -5,10 +5,10 @@
 Passionate about turning **AI research into practical, impact-driven technology.**
 
 * **Technical Founder & AI Lead @MotionlyAI** | developing real-world AI solutions and scalable ML systems
-* Focused on **Applied ML, Embedded Systems, and Edge ML**
-* **Microsoft Learn Student Ambassador**: empowering developers, growing tech communities, sharing knowledge, and advancing modern technology
+* Focused on **Applied ML, Embedded Systems, and Edge Computing**
+* **Microsoft Learn Ambassador**: empowering developers, growing tech communities, sharing knowledge, and advancing modern technology
 
-Join me to build **intelligent systems** and **embedded devices** that would change the world
+Join me to build **intelligent systems** and **embedded devices** that would change the world!
 
 #
 
