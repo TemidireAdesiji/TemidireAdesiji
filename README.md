@@ -21,12 +21,12 @@ Join me to build **intelligent systems** and **embedded devices** that would cha
 
 <br>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TemidireAdesiji&show_icons=true&theme=gruvbox)
+![Top Languages](https://github-readme-stats-amber-five-14.vercel.app/api/top-langs/?username=TemidireAdesiji&show_icons=true&theme=gruvbox&layout=compact&cache_seconds=86400)
 
 #
 
 ### Stats
-![Temidire's GitHub stats](https://github-readme-stats.vercel.app/api?username=TemidireAdesiji&show_icons=true&theme=gruvbox)
+![Temidire's GitHub stats](https://github-readme-stats-amber-five-14.vercel.app/api?username=TemidireAdesiji&show_icons=true&theme=gruvbox&cache_seconds=86400)
 
 #
 
