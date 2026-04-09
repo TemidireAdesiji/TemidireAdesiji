@@ -25,11 +25,6 @@ Join me to build **intelligent systems** and **embedded devices** that would cha
 
 #
 
-### Stats
-![Temidire's GitHub stats](https://github-readme-stats-amber-five-14.vercel.app/api?username=TemidireAdesiji&show_icons=true&theme=gruvbox&cache_seconds=86400)
-
-#
-
 ### Connect with me  
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/temidireadesiji)
