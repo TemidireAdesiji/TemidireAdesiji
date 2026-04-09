@@ -1,5 +1,5 @@
 # Temidire Adesiji
-**`AI/ML & Embedded Systems Engineer`**
+**`Senior AI/ML & Embedded Systems Engineer`**
 
 ### About Me
 Passionate about turning **AI research into practical, impact-driven technology.**
