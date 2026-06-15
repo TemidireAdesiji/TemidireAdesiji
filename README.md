@@ -4,7 +4,7 @@
 ### About Me
 Passionate about turning **AI research into practical, impact-driven technology.**
 
-* **Technical Founder & AI Lead @MotionlyAI** | developing real-world AI solutions and scalable ML systems
+* **Technical Founder & AI Lead @MingoolAI** | developing real-world AI solutions and scalable ML systems
 * Focused on **Applied ML, Embedded Systems, and Edge Computing**
 * **Microsoft Learn Ambassador**: empowering developers, growing tech communities, sharing knowledge, and advancing modern technology
 
